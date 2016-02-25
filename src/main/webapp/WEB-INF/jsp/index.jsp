@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- this is index.jsp
+	Hello this is spring mvc , has call from controller indexController
 </body>
 </html>
